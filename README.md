@@ -1,6 +1,14 @@
 ### Hi there 👋
 
+I am a Senior Principal Scientist with [Adobe Systems](https://www.adobe.com) where I serve as their PDF Architect having been involved with PDF technology for more than 20 years. 
+
+In 2019, I took on the responsibility for architecture of their Content Authenticity Initiative, serving as its Chief Architect. This lead me to help start the [C2PA](https://c2pa.org), which has created the industry's first open standard for content provenance and authenticity. I continue to lead their Technical Working Group.
+
+Another of my roles at Adobe is as their Senior Standards Representative. I represent Adobe on various international standards bodies including the ISO, W3C, ICC and more including being the the first American in [ETSI/ESI](https://www.etsi.org/technologies/digital-signature) (the European Standards body).  In addition to my work on PDF and C2PA, some other standards that I am currently involved with include updates to JPEG and PNG.
+
 <!--
+Prior to joining Adobe (for the first time) in 1996, Leonard was the Director of Advanced Technology for Aladdin Systems and responsible for the development of the StuffIt line of products.
+
 **lrosenthol/lrosenthol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
