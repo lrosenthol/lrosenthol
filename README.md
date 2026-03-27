@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Senior Principal Scientist with [Adobe Systems](https://www.adobe.com) where I serve as their PDF Architect having been involved with PDF technology for more than 20 years. 
+I am a Senior Principal Scientist with [Adobe Systems](https://www.adobe.com) where I serve as their PDF Architect having been involved with PDF technology for almost 30 years. 
 
 In 2019, I took on the responsibility for architecture of their Content Authenticity Initiative, serving as its Chief Architect. This lead me to help start the [C2PA](https://c2pa.org), which has created the industry's first open standard for content provenance and authenticity. I continue to lead their Technical Working Group.
 
